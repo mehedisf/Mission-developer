@@ -1,6 +1,81 @@
 body{
     ont-family: 'Poppins', sans-serif;
 }
-.header{
+h1{
+    font-size: 60px;
+    line-height: 15px;
+}
+h2{
+    text-align: center;
+    font-size:45px;
+    font-weight: bold;
+}
+.header-color{
     color: orange;
 }
+.flex-container{
+    display: flex;
+    
+}
+.half-width{
+    width: 60%;
+    padding: 8%;
+    margin-top: 3%;
+    
+}
+.half-width img{
+    width: 100%;
+    height: 100%;
+    
+    
+    
+}
+.Mission{
+    background-color: rgb(170, 143, 73) ;
+    width: 18%;
+    height: 8%;
+    padding: 2%;
+    border-radius: 10%;
+    
+    margin-right: 2%;
+    margin-left: 15%;
+
+    
+}
+.Vission{
+    background-color: rgb(224, 211, 156);
+    padding:2%;
+    margin-right: 2%;
+    width: 18%;
+    height: 8%;
+    border-radius: 10%;
+}
+.Goal{
+    background-color: rgb(120, 180, 120);
+    padding: 2%;
+    border-radius: 10%;
+    margin-right: 15%;
+    width:18%;
+    height: 8%;
+}
+.My-mission{
+    margin-left: 2%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    
+    
+    
+}
+.My-mission img{
+    width: 60%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orchid;
+    padding: 10px 15px;
+    border-radius: 10px;
+    font-weight:bold;
+
+}
+
+
