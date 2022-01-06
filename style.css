@@ -70,10 +70,9 @@ h2{
     width: 60%;
 }
 .header-border{
-    border-left: 10px solid orchid;
-    padding: 15px;
-    border-width: 5px;
-    
+    border-left: 5px solid orchid;
+    padding-left: 2%;
+height: 120px;    
 }
 .box-shadow{
     box-shadow: 10px 10px 10px 10px gray;
